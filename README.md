@@ -1,2 +1,2 @@
-# izaak
-this is my first repository
+# izaak 
+my first commit
